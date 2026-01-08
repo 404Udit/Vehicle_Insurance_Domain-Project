@@ -222,21 +222,6 @@ EC2 Deployment
 
 ---
 
-## 🌐 Live Application
-
-Once deployed:
-
-```text
-http://<EC2_PUBLIC_IP>:5080
-```
-
-🔁 Model retraining:
-
-```text
-http://<EC2_PUBLIC_IP>:5080/training
-```
-
----
 
 ## 🎯 Key MLOps Concepts Demonstrated In this project are:
 
