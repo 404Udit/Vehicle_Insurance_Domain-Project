@@ -7,9 +7,11 @@
 
 >🧩 Project Overview
 
-This project is a production-grade end-to-end MLOps system designed to simulate how machine learning solutions are built, deployed, and maintained in real-world industry environments. Instead of focusing only on model accuracy, the project emphasizes scalability, reproducibility, automation, monitoring, and deployment, which are critical requirements for ML systems in production.
+This project is a Vehicle Insurance Prediction System that aims to predict whether a customer is likely to purchase vehicle insurance based on historical and behavioral data. The model uses customer and vehicle-related features such as Gender, Age, Driving License status, Region Code, Previous Insurance history, Annual Premium, Policy Sales Channel, Customer Vintage, Vehicle Age indicators, and Vehicle Damage history to estimate the probability of insurance uptake.
 
-The pipeline handles the entire ML lifecycle — from raw data ingestion to automated model deployment — using modular components, cloud infrastructure, CI/CD pipelines, and secure configuration management. Every stage is designed to be independent, testable, and replaceable, following software engineering best practices.
+The objective of this system is to help insurance companies identify high-potential customers, optimize marketing strategies, and reduce operational costs by focusing outreach on users who are more likely to convert. By analyzing past customer behavior and vehicle conditions, the system transforms raw data into actionable insights that support data-driven decision-making.
+
+The project is implemented as a production-ready machine learning pipeline, ensuring reliable data ingestion, validation, transformation, model training, evaluation, and deployment. Designed with real-world scalability in mind, the system supports automated retraining, consistent inference, and seamless integration into business workflows, making it suitable for enterprise-level insurance analytics and deployment.
 
 ---
 
